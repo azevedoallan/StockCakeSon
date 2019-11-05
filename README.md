@@ -7,7 +7,7 @@ You can install this plugin into your CakePHP application using [composer](https
 The recommended way to install composer packages is:
 
 ```
-composer require Allan/StockCakeSon
+composer require allan/stock-cake-son
 ```
 
 Update your 'config/bootstrap.php'.
